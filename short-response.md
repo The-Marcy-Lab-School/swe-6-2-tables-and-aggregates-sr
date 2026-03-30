@@ -22,7 +22,7 @@ What is a constraint? Name two constraints and explain what each one enforces.
 
 ## Question 3
 
-What is the difference between `WHERE` and `HAVING`? Why can't you use `WHERE` to filter the results of an aggregate function like `COUNT` or `AVG`?
+What is the difference between `WHERE` and `HAVING`? Can you use both in the same query? If so, what does each one do?
 
 **Your answer:**
 
