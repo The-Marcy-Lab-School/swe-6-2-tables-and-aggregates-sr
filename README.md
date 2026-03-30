@@ -1,4 +1,4 @@
-# swe-6-2-creating-tables-and-aggregates-sr
+# swe-6-2-tables-and-aggregates-sr
 
 Short response questions for the Creating Tables and Aggregates assignment (Mod 6, Lessons 3–4).
 
